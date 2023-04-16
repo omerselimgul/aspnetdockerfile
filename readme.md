@@ -16,7 +16,7 @@ you must build this project with docker
 ```bash
 docker image build -t <imagetag> .
 ```
-<imagetag> : Write which tag you want to give
+"<imagetag>" : Write which tag you want to give
 
 after that you can run with this command 
 
@@ -26,7 +26,7 @@ docker run -i -p <port>:5000 <imagetag>
 ```
 this project work with 5000 port so 
 ##
-<port> : Write which port your computer wants to connect to container 5000 port
+"<port>" : Write which port your computer wants to connect to container 5000 port
 
 
 # testing
